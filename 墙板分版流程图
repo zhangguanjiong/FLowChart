@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T11:14:46.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="EMb66HSEZKbaKkPJrz0k" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T12:17:47.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="oxfbEuccUbW3Q0PFyEk8" version="14.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4611" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3759" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="7qwLB5TlDr7p4EPDX1WR-0" edge="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-1" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="7qwLB5TlDr7p4EPDX1WR-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="视图跳转" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="视图跳转" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1180" y="-1030" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1120" y="-430" as="targetPoint" />
             <Array as="points">
@@ -19,43 +19,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="7qwLB5TlDr7p4EPDX1WR-12" edge="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-31" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="7qwLB5TlDr7p4EPDX1WR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="是否有墙饰板被幕&lt;br&gt;墙或者洞口一分为多" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1190" y="-720" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qcZ0RGnosNs5c_I_BiXU-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-0" target="7qwLB5TlDr7p4EPDX1WR-37">
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-0" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-0" target="7qwLB5TlDr7p4EPDX1WR-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-0" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;获取所有的&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;墙饰板&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-0" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;获取所有的&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;墙饰板&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1180" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-12" target="7qwLB5TlDr7p4EPDX1WR-35" edge="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-12" target="7qwLB5TlDr7p4EPDX1WR-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7qwLB5TlDr7p4EPDX1WR-12" value="分割这类墙为多个实体墙，新增的墙两端保留原有墙端头的连接关系，加入到墙饰板集合中" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1195" y="-540" width="150" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-30" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-30" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1020" y="-680" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-34" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-34" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1120" y="-590" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OdC2TqSw4YmqtuaAYDg5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-35" target="OdC2TqSw4YmqtuaAYDg5-0" edge="1">
+        <mxCell id="OdC2TqSw4YmqtuaAYDg5-1" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-35" target="OdC2TqSw4YmqtuaAYDg5-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7qwLB5TlDr7p4EPDX1WR-35" value="根据墙朝向房间的内边线的端点相连情况找到连续相连的墙链路" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1210" y="-390" width="180" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="qcZ0RGnosNs5c_I_BiXU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-37" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-1" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7qwLB5TlDr7p4EPDX1WR-37" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7qwLB5TlDr7p4EPDX1WR-37" value="删除当前视图所有的工字条和依附于墙板原有的零件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7qwLB5TlDr7p4EPDX1WR-37" value="删除当前视图所有的工字条和依附于墙板原有的零件" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1180" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcZ0RGnosNs5c_I_BiXU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.941;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OdC2TqSw4YmqtuaAYDg5-0" target="qcZ0RGnosNs5c_I_BiXU-2">
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.941;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OdC2TqSw4YmqtuaAYDg5-0" target="qcZ0RGnosNs5c_I_BiXU-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1189" y="-90" />
@@ -64,17 +64,130 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OdC2TqSw4YmqtuaAYDg5-0" target="qcZ0RGnosNs5c_I_BiXU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OdC2TqSw4YmqtuaAYDg5-0" value="每条链路根据端点连接处是否成直角再拆分成更小的链路" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1188.75" y="-110" width="137.5" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="qcZ0RGnosNs5c_I_BiXU-2" value="&lt;div&gt;1.标记是双垂直墙还是折弯板墙&lt;/div&gt;&lt;div&gt;2.标记最小链路的闭合情况&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;3.标记直角的个数&lt;/div&gt;&lt;div&gt;4.标记是否是共线分割墙体链&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1700" y="-103.43000000000006" width="287" height="106.87" as="geometry" />
         </mxCell>
-        <mxCell id="qcZ0RGnosNs5c_I_BiXU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-12" target="qcZ0RGnosNs5c_I_BiXU-2">
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.907;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-22" target="qcZ0RGnosNs5c_I_BiXU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1830" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-22" value="&lt;span&gt;&lt;br&gt;判断是否是有效链路的标尺是：&lt;/span&gt;&lt;br&gt;&lt;span&gt;1.链路是闭合的；&lt;br&gt;&lt;/span&gt;&lt;span&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;2.直角个数为0&lt;br&gt;或者该链路有被分割的墙体&lt;br&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2060" y="-156.56" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-23" target="qcZ0RGnosNs5c_I_BiXU-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qcZ0RGnosNs5c_I_BiXU-12" value="&lt;span&gt;&lt;br&gt;判断是否是有效链路的标尺是：&lt;/span&gt;&lt;br&gt;&lt;span&gt;1.链路是闭合的；&lt;br&gt;&lt;/span&gt;&amp;amp;&amp;amp;&lt;br&gt;&lt;span&gt;2.直角个数为0&lt;br&gt;或者该链路有被分割的墙体&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2080" y="-150" width="250" height="200" as="geometry" />
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-32" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-23" target="qcZ0RGnosNs5c_I_BiXU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-23" value="是否是被分割的墙（分板优先级最高）" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1231.25" y="50" width="222.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-25" value="以分隔缝处的两块墙作为分板的首块墙，兵分两路，以首块分板宽度为900mm的唯一分板逻辑进行分板" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1215" y="320" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-27" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1130" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-31" target="qcZ0RGnosNs5c_I_BiXU-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-728.75" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-31" target="qcZ0RGnosNs5c_I_BiXU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-31" value="是否是双垂直墙" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-840" y="230" width="222.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-35" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-490" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-37" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-920" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-38" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-720" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-39" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-40" target="qcZ0RGnosNs5c_I_BiXU-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1030" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-40" target="qcZ0RGnosNs5c_I_BiXU-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-728.8000000000002" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-40" value="是否是仿木纹" style="rhombus;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-823.75" y="480" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-48" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-730" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-49" target="qcZ0RGnosNs5c_I_BiXU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-49" target="qcZ0RGnosNs5c_I_BiXU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-49" value="墙长大于900mm" style="rhombus;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-808.75" y="710" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-50" value="两侧以（墙长除以900的余数+900）除以2进行分板，中间以900mm整板分板，并标记之后的尺寸标注的表达为EQ" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-808.75" y="870" width="158.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-52" value="墙长除以2，分成两块墙板等边墙板，并标记之后的尺寸标注的表达为EQ" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-54" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-730" y="830" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-55" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-930" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-56" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-617" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-57" target="qcZ0RGnosNs5c_I_BiXU-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-57" value="墙长大于900" style="rhombus;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1080" y="620" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-58" target="qcZ0RGnosNs5c_I_BiXU-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qcZ0RGnosNs5c_I_BiXU-58" target="qcZ0RGnosNs5c_I_BiXU-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-58" value="墙长除以900的余数大于450" style="rhombus;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1090" y="770" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-60" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1000" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-61" value="首块板以墙长除以900的余数进行分板，剩余的都按900的整板分" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1055" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-63" value="&lt;span&gt;两侧以（墙长除以900的余数+900）除以2进行分板，中间以900mm整板分板，并标记之后的尺寸标注的表达为EQ&lt;/span&gt;" style="whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1280" y="940" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-65" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1000" y="890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcZ0RGnosNs5c_I_BiXU-68" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1150" y="790" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
